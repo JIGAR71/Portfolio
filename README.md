@@ -28,7 +28,7 @@ This is my **personal portfolio website** where I showcase my **skills**, **proj
 ## 📫 Contact
 
 - Email: jigarpanchal29159@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](https://jigar71.github.io/Portfolio/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jigar-panchal-87a524298/)
 
 ---
 
